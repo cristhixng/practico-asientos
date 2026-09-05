@@ -1,6 +1,7 @@
 Sistema de Reserva de Cine en Python 🎬
 
 Estudiante: Cristian Alex Gualli Guaman
+
 Materia: FUNDAMENTOS DE PROGRAMACION 
 
 Objetivo del Programa
